@@ -2,6 +2,7 @@
   "name": "pepkio-ph-buffer-solver",
   "version": "0.1.0",
   "description": "Henderson–Hasselbalch buffer solver with forward and reverse modes, bench recipes, buffer capacity, and cited pKa reference via the Pepkio Tools REST API.",
+  "readme": "README_NPM.md",
   "type": "module",
   "engines": {
     "node": ">=18"
